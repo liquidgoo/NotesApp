@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notes-app</string>
+    <string name="notes_main_title">Notes</string>
+</resources>
